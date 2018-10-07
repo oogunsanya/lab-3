@@ -464,8 +464,12 @@ input[type="checkbox"]{
   width: auto;
   height: auto;
   float: left;
+  margin-right: 0.5em;
 }
 
 /* ===== MODULAR STYLES ===== */
+form li {
+  padding: 0.5em;
+}
 
 /* ===== STATE STYLES ======= */
