@@ -499,6 +499,9 @@ input{
   height: 2%;
   width: 100%;
 }
+form{
+  padding-top: 5%;
+}
 }
 
 /* ===== MODULAR STYLES ===== */
