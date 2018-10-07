@@ -447,7 +447,7 @@ form{
   padding: 2%;
   padding-left: 3%
   }
-  
+
 input {
   box-sizing: border-box;
   width: 100%;
@@ -480,6 +480,11 @@ input[type="checkbox"]{
   float: left;
 }
 
+@media screen and (max-width: 480px){
+  input[type="submit"]{
+  font-size: 30px;
+  width: 100%;
+}
 /* ===== MODULAR STYLES ===== */
 form li {
   padding: 0.5em;
