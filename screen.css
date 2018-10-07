@@ -460,6 +460,12 @@ input[type="submit"]{
   margin: auto;
 }
 
+input[type="checkbox"]{
+  width: auto;
+  height: auto;
+  float: left;
+}
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
